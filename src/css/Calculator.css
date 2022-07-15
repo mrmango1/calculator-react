@@ -1,7 +1,6 @@
 .App {
   height: 100vh;
-  padding-top: 10px;
-  background-color: #1b1b32;
+  background-color: #191724;
   font-family: Lato, sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -23,9 +22,9 @@
   width: 400px;
   height: 600px;
   padding: 14px;
-  background-color: #99c9ff;
+  background-color: #31748f;
   border-radius: 20px;
-  border: 5px solid white;
+  border: 5px solid #9ccfd8;
 }
 .row {
   margin: 4px;

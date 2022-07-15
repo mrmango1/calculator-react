@@ -6,20 +6,20 @@
   align-items: center;
   font-weight: bold;
   font-size: 38px;
-  background-color: #1b1b32;
-  color: white;
+  background-color: #403d52;
+  color: #e0def4;
   border-radius: 25px;
-  border: 2px solid white;
+  border: 2px solid #9ccfd8;
   margin: 4px;
   cursor: pointer;
   user-select: none;
 }
 .button-container:hover {
-  background-color: #5a01a7;
+  background-color: #26233a;
 }
 .operator {
-  background-color: #00471b;
+  background-color: #ea9a97;
 }
 .operator:hover {
-  background-color: #ff6600;
+  background-color: #d7827e;
 }

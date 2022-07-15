@@ -1,16 +1,16 @@
 .input {
   height: 75px;
-  border-radius: 50px;
-  margin: 10px 0 20px 0;
+  border-radius: 25px;
+  margin: 10px 7px 20px 7px;
   display: flex;
   justify-content: flex-end;
   align-items: center;
   font-weight: bold;
   font-size: 30px;
-  background-color: #0a0a23;
-  color: white;
+  background-color: #26233a;
+  color: #e0def4;
   padding: 11px;
   padding-right: 30px;
   margin: 1px solid #888;
-  box-shadow: -1px 4px 1px 1px white;
+  box-shadow: -1px 4px 1px 1px #9ccfd8;
 }

@@ -10,8 +10,8 @@ const Button = (props) => {
   return (
     <motion.button
       whileHover={{
-        scale: 1.05,
-        transition: { duration: 0.3 },
+        scale: 1.1,
+        transition: { duration: 0.2 },
       }}
       whileTap={{ scale: 0.9 }}
       className={`button-container ${isOperator(props.children)}`.trimEnd()}

@@ -16,9 +16,9 @@
   margin: 4px;
 }
 .button-clear:hover {
-  background-color: #ebb000;
+  background-color: #b4637a;
 }
 .clear-All {
-  background-color: #ac0246;
+  background-color: #eb6f92;
   flex: 2 1;
 }
